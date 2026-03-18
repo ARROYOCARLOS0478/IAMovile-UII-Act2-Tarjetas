@@ -7,6 +7,10 @@ Lenguaje dart flutter. Crea filas, en cada fila va una imagen desde la red y 2 t
 ejemplo (nombre y nombre de usuario), las filas van a ser de colores diferentes y llamativos, 
 la letra negra. Las filas estarán redondeadas y tendrán sombra.
 
+## Imagenes
+<img width="392" height="659" alt="image" src="https://github.com/user-attachments/assets/423b2c5d-aa2e-40cf-9937-cd214d53f484" />
+<img width="1007" height="738" alt="image" src="https://github.com/user-attachments/assets/a87a7b53-6ba3-493a-afac-ba24ca0a1ce5" />
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
